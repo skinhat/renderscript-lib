@@ -151,8 +151,6 @@ static void print_list()
 void main()
 {
 
-	struct test_struct *head = NULL;
-	struct test_struct *curr = NULL;
 
     int i = 0, ret = 0;
     struct test_struct *ptr = NULL;
