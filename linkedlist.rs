@@ -1,3 +1,6 @@
+// Based upon http://www.thegeekstuff.com/2012/08/c-linked-list-example/ linked list example
+// Execute in Android with mScript.invoke_main();
+
 #pragma version(1)
 #pragma rs java_package_name(com.skinhat) 
 #pragma stateFragment(parent)
